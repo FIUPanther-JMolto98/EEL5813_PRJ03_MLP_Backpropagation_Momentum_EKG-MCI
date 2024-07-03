@@ -1,1 +1,1 @@
-# EEL5813_PRJ03_MLP_Backpropagation_Momentum_MNIST
+# EEL5813_PRJ03_MLP_Backpropagation_Momentum_EKG-MCI
